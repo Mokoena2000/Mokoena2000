@@ -1,5 +1,16 @@
+Hi, I’m Moholeng Mokoena
 
-System.out.println("Hello World !");
+Software Developer Student @ WeThinkCode
+Focused on backend development, systems design, and building technology that’s practical, scalable, and meaningful.
+
+Current Focus
+
+Making Sure writing code is fun and exciting not forgetting the key principles 
+ 
+Tech Stack
+
+Java • SQLite • Spring Boot • JUnit • Maven • Python • REST APIs • Git • Django
+
 
 <!---
 Mokoena2000/Mokoena2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
