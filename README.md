@@ -1,16 +1,16 @@
-Hi, I’m Moholeng Mokoena
+# Moholeng Mokoena
 
-Software Developer Student @ WeThinkCode
-Focused on backend development, systems design, and building technology that’s practical, scalable, and meaningful.
+Software & AI Automation Engineer focused on real-time systems, automated data pipelines, and backend architecture.
 
-Current Focus
+### What I build
+* Real-time voice agents and streaming infrastructure (WebRTC, LiveKit, low-latency audio)
+* Data pipelines and normalization engines for enterprise data warehousing
+* Scalable backends and APIs in Python (FastAPI, Django) with PostgreSQL / Supabase
 
-Making Sure writing code is fun and exciting not forgetting the key principles 
- 
-Tech Stack
-
-Java • SQLite • Spring Boot • JUnit • Maven • Python • REST APIs • Git • Django
-
+### Stack
+* **Languages:** Python, SQL, TypeScript, Dart, Java
+* **Data & Cloud:** PostgreSQL, Supabase, Docker, AWS, Google Cloud Platform
+* **AI & Real-Time:** WebRTC, LiveKit, LLM APIs, streaming STT/TTS
 
 <!---
 Mokoena2000/Mokoena2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
